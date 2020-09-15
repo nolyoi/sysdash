@@ -1,0 +1,3 @@
+module Sysdash
+  VERSION = "0.1.0"
+end
